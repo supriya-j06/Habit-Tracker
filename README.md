@@ -140,10 +140,9 @@ This project successfully implements a full-stack habit tracking system that hel
 * AI-based suggestions
 
 ---
-
 ## 🎓 Academic Purpose
 
-Developed as part of MCA curriculum to demonstrate full-stack web development.
+Developed as part of MCA curriculum under the subject **Java Programming**, demonstrating practical application of full-stack development concepts..
 
 ---
 
